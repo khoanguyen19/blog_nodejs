@@ -1,0 +1,9 @@
+@import 'variable';
+
+body {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    background-color: $bg-color;
+    color: #fff;
+}
